@@ -14,4 +14,4 @@ Comparison and Analysis: Finally, we compare the performance of the UNet variant
 # Conclusion
 In this project, we explored and evaluated various UNet variants for semantic segmentation of medical images. Our findings demonstrate the effectiveness of these variants in accurately segmenting objects of interest. The results can guide researchers and practitioners in selecting the most suitable UNet variant for their specific segmentation tasks.
 
-Please refer to the documentation and source code for detailed implementation and usage instructions.
+Please refer to the documentation and source code for detailed implementation.
